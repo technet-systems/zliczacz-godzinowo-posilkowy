@@ -13,7 +13,7 @@
 * [CodeIgniter 2.x](https://github.com/bcit-ci/CodeIgniter)
 * [X-editable](https://github.com/vitalets/x-editable)
 * [jQuery Validation Plugin - Form validation made easy](https://github.com/jquery-validation/jquery-validation)
-* [Bootstrap 3.x] (https://getbootstrap.com/)
+* [Bootstrap 3.x](https://getbootstrap.com/)
 
 ## Changelog:
 * 1.0.0 (2016-09-18)
