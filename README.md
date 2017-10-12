@@ -2,7 +2,7 @@
 
 ## Description:
 Aplikacja przeznaczona do obliczania comiesięcznych odpłatności (wyżywienie i pobyt) dla podopiecznych placówek przedszkolnych.
-* [x] [Instrukcja](https://github.com/technet-systems/zliczacz-godzinowo-posilkowy/blob/master/docs/zliczacz-instrukcja.pdf)
+* [x] [Instrukcja](https://github.com/technet-systems/zliczacz-godzinowo-posilkowy/blob/master/docs/zliczacz-instrukcja.pdf){:target="_blank"}
 
 ## Features:
 * [x] Wszystkie dane (z podziałem na lata, grupy i osoby) w jednym miejscu
